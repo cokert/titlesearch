@@ -1,4 +1,4 @@
-# Titles Search
+# Title Search
 
 To run this, you need to edit appsettings.secret.empty.json to contain the Mongo connection string and save it as appsettings.secret.json.  I'm not storing the connection string anywhere with this repostory.
 
