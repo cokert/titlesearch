@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export function Participants(props) {
     return (
@@ -40,3 +41,8 @@ export function Participants(props) {
         </table>
     );
 }
+
+
+Participants.propTypes = {
+    people: PropTypes.array,
+};

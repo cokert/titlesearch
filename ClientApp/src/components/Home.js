@@ -25,12 +25,12 @@ export class Home extends Component {
       .then(data => {
         this.setState({ titles: data.titles, count: data.totalCount, loading: false });
       });
-  };
+  }
   
   handleChange(e) {
     this.loadData(e.target.value);
     this.setState({ searchText: e.target.value });
-  };
+  }
 
   showDetails(title) {
     this.setState({selectedTitle: title});

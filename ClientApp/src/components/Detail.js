@@ -1,4 +1,6 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+
 import {SubDetailsWrapper} from './SubDetailsWrapper';
 import {Participants} from './Participants';
 import {Awards} from './Awards';
@@ -41,3 +43,6 @@ export function Detail(props) {
     );
 }
   
+Detail.propTypes = {
+    title: PropTypes.object,
+};

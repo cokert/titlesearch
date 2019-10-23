@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export function Awards(props) {
     return (
@@ -40,3 +41,8 @@ export function Awards(props) {
         </table>
     );
 }
+
+
+Awards.propTypes = {
+    awards: PropTypes.array,
+};

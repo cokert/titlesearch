@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Container } from 'reactstrap';
 import { NavMenu } from './NavMenu';
+import PropTypes from 'prop-types';
 
 export class Layout extends Component {
   static displayName = Layout.name;
@@ -16,3 +17,8 @@ export class Layout extends Component {
     );
   }
 }
+
+Layout.propTypes = {
+  children: PropTypes.array,
+  name: PropTypes.string,
+};

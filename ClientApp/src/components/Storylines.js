@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export function Storylines(props) {
     return (
@@ -34,3 +35,8 @@ export function Storylines(props) {
         </table>
     );
 }
+
+
+Storylines.propTypes = {
+    storylines: PropTypes.array,
+};

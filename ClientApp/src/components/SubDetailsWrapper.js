@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export function SubDetailsWrapper(props) {
     var name = props.name.replace(" ", "_");
@@ -28,3 +29,12 @@ export function SubDetailsWrapper(props) {
     </div>
     );
 }
+
+
+SubDetailsWrapper.propTypes = {
+    name: PropTypes.string,
+    id: PropTypes.string,
+    widthClass: PropTypes.string,
+    children: PropTypes.object,
+    listCount: PropTypes.number,
+};
