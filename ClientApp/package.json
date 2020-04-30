@@ -514,7 +514,7 @@
     "jest-snapshot": "^20.0.3",
     "jest-util": "^20.0.3",
     "jest-validate": "^20.0.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-base64": "^2.5.1",
     "js-tokens": "^3.0.2",
     "js-yaml": "^3.13.1",
