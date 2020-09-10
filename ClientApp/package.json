@@ -414,7 +414,7 @@
     "http-deceiver": "^1.2.7",
     "http-errors": "^1.7.3",
     "http-parser-js": "^0.5.1",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "http-proxy-middleware": "^0.20.0",
     "http-signature": "^1.2.0",
     "https-browserify": "^1.0.0",
