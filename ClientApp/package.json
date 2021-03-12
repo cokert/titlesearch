@@ -741,7 +741,7 @@
     "raw-body": "^2.4.1",
     "rc": "^1.2.8",
     "react": "^16.11.0",
-    "react-dev-utils": "^5.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.11.0",
     "react-error-overlay": "^4.0.1",
     "react-lifecycles-compat": "^3.0.4",
