@@ -403,7 +403,7 @@
     "hoist-non-react-statics": "^2.5.5",
     "home-or-tmp": "^2.0.0",
     "homedir-polyfill": "^1.0.3",
-    "hosted-git-info": "^2.8.5",
+    "hosted-git-info": "^2.8.9",
     "hpack.js": "^2.1.6",
     "html-comment-regex": "^1.1.2",
     "html-encoding-sniffer": "^1.0.2",
