@@ -577,7 +577,7 @@
     "mem": "^4.0.0",
     "memory-fs": "^0.4.1",
     "meow": "^3.7.0",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "merge-descriptors": "^1.0.1",
     "methods": "^1.1.2",
     "micromatch": "^2.3.11",
