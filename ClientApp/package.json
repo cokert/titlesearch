@@ -884,7 +884,7 @@
     "toposort": "^1.0.7",
     "tough-cookie": "^2.5.0",
     "tr46": "^0.0.3",
-    "trim-newlines": "^1.0.0",
+    "trim-newlines": "^3.0.1",
     "trim-right": "^1.0.1",
     "tty-browserify": "^0.0.0",
     "tunnel-agent": "^0.6.0",
