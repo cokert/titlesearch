@@ -875,7 +875,7 @@
     "timed-out": "^4.0.1",
     "timers-browserify": "^2.0.11",
     "tmp": "^0.0.33",
-    "tmpl": "^1.0.4",
+    "tmpl": "^1.0.5",
     "to-arraybuffer": "^1.0.1",
     "to-fast-properties": "^1.0.3",
     "to-object-path": "^0.3.0",
